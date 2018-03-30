@@ -1,3 +1,12 @@
+h1 a {
+    color: #dca205;
+    font-family: 'Lobster';
+}
+
+body {
+    padding-left: 15px;
+}
+
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
@@ -38,7 +47,7 @@ h1, h2, h3, h4 {
 }
 
 .post {
-    margin-bottom: 70%;
+    margin-bottom: 40%;
 }
 
 .post h1 a, .post h1 a:visited {
